@@ -6,9 +6,9 @@
 I’m an MCA student on a mission to build impactful web applications. From crafting sleek, interactive user experiences to architecting powerful backend systems, I love turning ideas into reality.  
 
 💻 What I Bring to the Table:  
-- ✨ **Frontend Magic:** HTML, CSS, JavaScript, GSAP, Locomotive Scroll, ScrollTrigger  
-- ⚙️ **Backend Mastery in Progress:** Java, Spring Boot (Learning)  
-- 🗃️ **Databases:** SQL, NoSQL  
+- ✨ Frontend Magic: HTML, CSS, JavaScript, GSAP, Locomotive Scroll, ScrollTrigger  
+- ⚙️ Backend Mastery in Progress: Java, Spring Boot (Learning)  
+- 🗃️ Databases: SQL, NoSQL  
 - 🧠 **Problem Solver:** Practicing DSA to sharpen my coding skills  
 
 🌿 Currently Growing In:
