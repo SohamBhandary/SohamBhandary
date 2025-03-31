@@ -27,6 +27,4 @@ To become a rock-solid Java backend developer while leveling up my frontend expe
 ⚡ Fun Fact:  
 I’m in the most hardworking phase of my life, and every challenge is a stepping stone toward my goals. Let’s code, collaborate, and create something extraordinary!  
 
----
 
-This version has a bolder tone, making it more vibrant and engaging while clearly showcasing your strengths. Let me know if you'd like tweaks!
