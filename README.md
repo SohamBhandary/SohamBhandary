@@ -16,10 +16,9 @@
 ### 🖤 About Me  
 
 
-- 🎓 2nd Year Btech in IT@ **Netaji Subhash Engineering College**  
-- 🛠️ Tech Stack → **MERN**, **C**, **Java**, **Python**, **MySQL**  
-- 🕶️ Member of **Cybernix (Official Tech Club)**  
-- 🧑‍💻 Into **AI/ML + Web Development**  
+-  🎓 MCA Final Year Student  **Techno College Hooghly**  
+- 🛠️ Tech Stack → **React JS**, **Springboot**, **SQL**, **FastAPI**, **Mongodb**   
+- 🧑‍💻 Into **Backend + Gen AI**  
 - 🔮 Always building, always learning.  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
@@ -43,25 +42,36 @@
 
  - **Backend** –  
 <div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="FastAPI" width="65" height="65" style="margin: 0 15px;" />  
 </div>  
 <br>
+
+
+- **Tools & DevOps** –  
+<div align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" style="margin: 0 15px;" />  
+</div>  
 
 <br>  
 
  - **Database** –  
 <div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" style="margin: 0 15px;" />  
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 0 15px;" />  
-</div>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://avatars.githubusercontent.com/u/117005100?s=200&v=4" alt="Pinecone" width="65" height="65" style="margin: 0 15px;" />  
+</div>
 <br>
  
   - **Languages** –  
 <div align="center">  
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 15px;" /> 
+ 
 </div>
 
   <br>  
@@ -73,28 +83,21 @@
 
 ---
 
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amananshukumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2" height="160px"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amananshukumar&theme=tokyonight&hide_border=true&background=000000&ring=8A2BE2&currStreakLabel=8A2BE2" height="160px"/>
-</p>  
-
 
 
 
 ---
 
 ### 🕶️ Fun Fact  
-_"Code. Break. Create. Repeat."_  
+_"Build. Question. Refine. Ship."_  
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ---
 
 ⚡ **Let’s Connect!**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-kumar-039677331/"><img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="amananshukumarpurnea@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/soham-bhandary-profile03/"><img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="bhandarysoham27@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 
 </p>
