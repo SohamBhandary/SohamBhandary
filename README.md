@@ -35,7 +35,7 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" style="margin: 0 15px;" />
 </div>
 <br>  
@@ -62,8 +62,7 @@
 <div align="center">  
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 0 15px;" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://avatars.githubusercontent.com/u/117005100?s=200&v=4" alt="Pinecone" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" style="margin: 0 15px;" />    
 </div>
 <br>
  
