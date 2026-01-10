@@ -43,7 +43,7 @@
  - **Backend** –  
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="FastAPI" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" style="margin: 0 15px;" />  
 </div>  
 <br>
 
