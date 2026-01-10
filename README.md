@@ -35,8 +35,7 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" style="margin: 0 15px;" />
 </div>
 <br>  
@@ -82,18 +81,12 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
----
 
-
-
-
----
 
 ### 🕶️ Fun Fact  
 _"Build. Question. Refine. Ship."_  
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
----
 
 ⚡ **Let’s Connect!**  
 <p align="center">
