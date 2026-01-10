@@ -66,9 +66,10 @@
 </div>
 <br>
  
-  - **Languages** –  
- <img src="https://skillicons.dev/icons?i=java,python,&perline=6" />
-  
+  - **Languages** –
+
+<div align="center">  
+ <img src="https://skillicons.dev/icons?i=java,python,&perline=6" /> 
  
 </div>
 
