@@ -53,7 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="margin: 0 15px;" />  
   <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" alt="GitHub" width="65" height="65" style="margin: 0 15px;" />  
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" style="margin: 0 15px;" /> 
+  
 </div>  
 
 <br>  
@@ -69,7 +70,9 @@
   - **Languages** –
 
 <div align="center">  
- <img src="https://skillicons.dev/icons?i=java,python,&perline=6"  width="65" height="65" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Git" width="65" height="65" style="margin: 0 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Git" width="65" height="65" style="margin: 0 15px;" />  
+
  
 </div>
 
