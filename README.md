@@ -51,7 +51,7 @@
 - **Tools & DevOps** –  
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" alt="GitHub" width="65" height="65" style="margin: 0 15px;" />  
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" style="margin: 0 15px;" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" style="margin: 0 15px;" />  
 </div>  
@@ -68,8 +68,9 @@
  
   - **Languages** –  
 <div align="center">  
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" style="margin: 0 15px;" />  
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 15px;" /> 
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg)" width="65" height="65" alt="HTML5" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)" width="60" height="60" alt="CSS3" />
+  
  
 </div>
 
