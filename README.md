@@ -4,14 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Java+Developer+%F0%9F%9A%80;Gen-AI+Enthusiast+%F0%9F%92%BB;Let's+Connect+and+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
----
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 <br><br>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ### 🖤 About Me  
 
@@ -23,14 +22,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
----
+
 ### 🚀 Tech Arsenal  
 <p align="center">  
   <!-- <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">   -->
   <br>
    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,npm,vite,react,tailwind,maven,spring,fastapi,mysql,postgres,mongo,git,github,docker,postman,vscode,idea,&perline=6" />  
   <br><br>  
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
  - **Frontend** –  
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
@@ -39,6 +38,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" style="margin: 0 15px;" />
 </div>
 <br>  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
  - **Backend** –  
 <div align="center">  
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" style="margin: 0 15px;" />  
 </div>  
 <br>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 - **Tools & DevOps** –  
 <div align="center">  
@@ -58,6 +58,7 @@
 </div>  
 
 <br>  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
  - **Database** –  
 <div align="center">  
@@ -66,6 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" style="margin: 0 15px;" />    
 </div>
 <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
  
   - **Languages** –
 
