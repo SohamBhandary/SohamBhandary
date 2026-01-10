@@ -67,9 +67,7 @@
 <br>
  
   - **Languages** –  
-<div align="center">  
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg)" width="65" height="65" alt="HTML5" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)" width="60" height="60" alt="CSS3" />
+ <img src="https://skillicons.dev/icons?i=java,python,&perline=6" />
   
  
 </div>
