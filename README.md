@@ -30,7 +30,8 @@
    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,npm,vite,react,tailwind,maven,spring,fastapi,mysql,postgres,mongo,git,github,docker,postman,vscode,idea,&perline=6" />  
   <br> 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
- **Frontend** –  
+    <br> 
+ - **Frontend** –  
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
