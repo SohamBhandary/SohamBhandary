@@ -26,7 +26,7 @@
 ---
 ### 🚀 Tech Arsenal  
 <p align="center">  
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">  
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">   -->
   <br>
    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,npm,vite,react,tailwind,maven,spring,fastapi,mysql,postgres,mongo,git,github,docker,postman,vscode,idea,&perline=6" />  
   <br><br>  
@@ -35,8 +35,9 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />
- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" style="margin: 0 15px;" />
 </div>
 <br>  
 
