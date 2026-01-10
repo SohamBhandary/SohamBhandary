@@ -69,7 +69,7 @@
   - **Languages** –
 
 <div align="center">  
- <img src="https://skillicons.dev/icons?i=java,python,&perline=6" /> 
+ <img src="https://skillicons.dev/icons?i=java,python,&perline=6"  width="65" height="65" /> 
  
 </div>
 
