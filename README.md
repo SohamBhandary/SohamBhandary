@@ -55,9 +55,18 @@
 - **Tools & DevOps** –  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" style="margin: 0 15px;" />
+  
   <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" width="65" height="65" alt="GitHub" style="margin: 0 15px;" />
+  
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65" height="65" alt="Postman" style="margin: 0 15px;" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" style="margin: 0 15px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="65" height="65" alt="Kubernetes" style="margin: 0 15px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="65" height="65" alt="Terraform" style="margin: 0 15px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="65" height="65" alt="GitHub Actions" style="margin: 0 15px;" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
