@@ -60,6 +60,8 @@
   
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65" height="65" alt="Postman" style="margin: 0 15px;" />
   
+  <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" style="margin: 0 15px;" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" style="margin: 0 15px;" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="65" height="65" alt="Kubernetes" style="margin: 0 15px;" />
@@ -77,7 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" style="margin: 0 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" style="margin: 0 15px;" />
    
-  <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" style="margin: 0 15px;" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
