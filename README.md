@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">⚡ Soham Bhandary ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Java+Developer+%F0%9F%9A%80;Gen-AI+Enthusiast+%F0%9F%92%BB;Let's+Connect+and+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Gen+A.I+Java+Developer+%F0%9F%9A%80;Let's+Connect+and+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 <div align="center">
